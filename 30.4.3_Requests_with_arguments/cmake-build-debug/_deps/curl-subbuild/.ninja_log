@@ -1,0 +1,21 @@
+# ninja log v5
+0	161	6787443676030820	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	f08a9c2575ca8472
+2771	2815	6787443702629859	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	6f7930038b4564f4
+0	161	6787443676030820	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	f08a9c2575ca8472
+161	2771	6787443702147305	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	7c65eaa9e86a5798
+161	2771	6787443702147305	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	7c65eaa9e86a5798
+2771	2815	6787443702629859	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	6f7930038b4564f4
+2988	3031	6787443704830832	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	969d6da394149e82
+2815	2857	6787443703029762	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	df94b932fd70f5f
+2815	2857	6787443703029762	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	df94b932fd70f5f
+2858	2901	6787443703529756	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	73c150f1eaf85d75
+2858	2901	6787443703529756	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	73c150f1eaf85d75
+3032	3096	6787443705428952	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	69ba9591e153bb50
+2901	2945	6787443703928811	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	fc91150d5df58a71
+2901	2945	6787443703928811	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	fc91150d5df58a71
+2945	2988	6787443704379152	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	6305a240ea65ba46
+2945	2988	6787443704379152	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	6305a240ea65ba46
+2988	3031	6787443704830832	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	969d6da394149e82
+3032	3096	6787443705428952	CMakeFiles/curl-populate-complete	69ba9591e153bb50
+3032	3096	6787443705428952	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	69ba9591e153bb50
+3032	3096	6787443705428952	C:/Users/serge/CLionProjects/30.4.3_Requests_with_arguments/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	69ba9591e153bb50
