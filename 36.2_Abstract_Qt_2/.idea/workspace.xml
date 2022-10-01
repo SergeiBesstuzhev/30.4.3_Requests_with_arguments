@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d752041-c8ac-4593-adb6-1c68b39bf6de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../24.5.1_Time_tracking/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24.5.2_Birthday_Reminders/.idea/24.5.2_Birthday_Reminders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.1_Traning/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.1_Video1/.idea/26.1_Video1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.1_Video2/.idea/26.1_Video2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.4.1_Audio_player_simulations/.idea/26.4.1_Audio_player_simulations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.4.2_Mobile_phone_simulation/.idea/26.4.2_Mobile_phone_simulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../26.4.3_Desktop/.idea/26.4.3_Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27.1.Video1/.idea/27.1.Video1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27.1.Video2/.idea/27.1.Video2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27.1.Video3/.idea/27.1.Video3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27.4.1_Elf_village/.idea/27.4.1_Elf_village.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27.4.2_Hierarchy_of_geometric_shapes/.idea/27.4.2_Hierarchy_of_geometric_shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../28.4.1_swim_100_meters/.idea/28.4.1_swim_100_meters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../28.4.2_Simulation_of_the_station/.idea/28.4.2_Simulation_of_the_station.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../28.4.3_Kitchen_simulation/.idea/28_4_3_Kitchen_simulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29.4.1_Superdog/.idea/29.4.1_Superdog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../29.4.2_Shape_interface/.idea/29.4.2_Shape_Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../30_Abstract/.idea/30_Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../31.5.1_smart_pointer_implementation/.idea/31.5.1_smart_pointer_implementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../31.5.2_Graph_class_implementation/.idea/31.5.2_Graph_class_implementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../32.5.1_Movie_Information/.idea/32.5.1_Movie_Information.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../32.5.2_Movie_data_analysis/.idea/32.5.2_Movie_data_analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../32.5.2_Movie_data_analysis/record.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../32.5.3_Protobuf_data_model/.idea/32.5.3_Protobuf_data_model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../32.5_Abstract/.idea/32.5_Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.1_Shopping_cart_operation/.idea/33.5.1_Shopping_cart_operation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.2_Fishing_game/.idea/33.5.2_Fishing_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.2_Fishing_game/include/fishing.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.2_Fishing_game/src/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.2_Fishing_game/src/fishing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.3_Template_Data_Registry/.idea/33.5.3_Template_Data_Registry.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.3_Template_Data_Registry/include/Data.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.3_Template_Data_Registry/include/Registry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33.5.4_Arithmetic_mean_in_array/.idea/33.5.4_Arithmetic_mean_in_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../33_Abstract/.idea/33_Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../34_Abstract_Qt/.idea/34_Abstract_Qt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35.6.1_Task_1/.idea/35.6.1_Task_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35_Abstract/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35_Abstract/.idea/35_Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35_Abstract/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35_Abstract/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../35_Abstract/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/36.2_Abstract_Qt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/.idea/36.2_Abstract_Qt_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f7d7458db8e7b0192234.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1b0951ca216647fd23bd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6075c1b35d7837981769.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/index-2022-09-15T15-21-49-0730.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/target-36_2_Abstract_Qt_1-Debug-211e33d2e12325fc2b2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/target-36_2_Abstract_Qt_1_autogen-Debug-06b9bf783fa4598b3b43.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/target-36_2_Abstract_Qt_1_autogen_timestamp_deps-Debug-f2a1f02e3052fb838e6d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-d9cfc013ed1f468ba672.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CMakeRCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/36_2_Abstract_Qt_1_autogen.dir/AutogenInfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/clean_additional.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../36.2_Abstract_Qt_1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.4.3_Requests_with_arguments/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../30.4.3_Requests_with_arguments/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30.4.3_Requests_with_arguments/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../30.4.3_Requests_with_arguments/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectId" id="2EoOOxmXAXLSVs6CA4CX0Q7Yd4S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d752041-c8ac-4593-adb6-1c68b39bf6de" name="Changes" comment="" />
+      <created>1663258441196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663258441196</updated>
+      <workItem from="1663258443145" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

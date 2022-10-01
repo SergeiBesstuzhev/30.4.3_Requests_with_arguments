@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "36_2_Abstract_Qt_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "36_2_Abstract_Qt_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-36_2_Abstract_Qt_2-Debug-0ef57aecd8d08702aa6d.json",
+					"name" : "36_2_Abstract_Qt_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "36_2_Abstract_Qt_2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-36_2_Abstract_Qt_2_autogen-Debug-af2c1468c202486f08ff.json",
+					"name" : "36_2_Abstract_Qt_2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "36_2_Abstract_Qt_2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-36_2_Abstract_Qt_2_autogen_timestamp_deps-Debug-94ba557ddf07e6063b57.json",
+					"name" : "36_2_Abstract_Qt_2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/serge/CLionProjects/36.2_Abstract_Qt_2/cmake-build-debug",
+		"source" : "C:/Users/serge/CLionProjects/36.2_Abstract_Qt_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
